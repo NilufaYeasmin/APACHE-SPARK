@@ -1,7 +1,5 @@
 # Hello and Welcome to my Portfolio Folder!
 
-This repository contains the documents of PySpark projects that I completed as part of my Master of Data Science and Analytics program at Ryerson University.
-
 ## PySpark program to count Odd & Even from Integer List.
 ** integer_list - The input data file to count the Odd & Even number from Integer List
 
